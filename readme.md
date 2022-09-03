@@ -8,5 +8,7 @@ Anotações sobre o curso para facilitar os estudos para a turma
 * Conteúdo da segunda semana;
 * Conteúdo da terceira semana;
 * Conteúdo da quarta semana;
+
+* Fechamento do Curso
 ---
 by Logan Esposte
